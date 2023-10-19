@@ -1,0 +1,30 @@
+
+*** These modified files were found in JOE when it aborted on Thu Oct 19 11:49:15 2023
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+/root/hashicat-azure/.git/TAG_EDITMSG
+
+*** File '/root/hashicat-azure/.git/TAG_EDITMSG'
+Git push origin --tags#
+# Write a message for tag:
+#   1.0.0
+# Lines starting with '#' will be ignored.
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
+
+*** These modified files were found in JOE when it aborted on Thu Oct 19 11:51:50 2023
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+/root/hashicat-azure/.git/TAG_EDITMSG
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
